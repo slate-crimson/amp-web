@@ -1,0 +1,5 @@
+.*
+!.gitignore
+
+data.json
+__pycache__
